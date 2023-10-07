@@ -1,0 +1,19 @@
+.p {
+  height: 26px;
+  position: relative;
+  width: 720px;
+}
+
+.p .charles-a-ross-of {
+  color: #2c2f34;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  height: 26px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}

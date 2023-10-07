@@ -1,0 +1,2451 @@
+.www-ghanaiantimes {
+  background-color: #f7f7f7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-tie-container-wrapper {
+  background-color: #f7f7f7;
+  height: 4406px;
+  width: 1920px;
+}
+
+.www-ghanaiantimes .div-tie-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 4343px;
+  position: relative;
+  top: -9px;
+  width: 1920px;
+}
+
+.www-ghanaiantimes .div-tie-wrapper {
+  background-color: #ffffff;
+  height: 4343px;
+  position: relative;
+  width: 1920px;
+}
+
+.www-ghanaiantimes .overlap {
+  height: 3853px;
+  left: 360px;
+  position: absolute;
+  top: 412px;
+  width: 1269px;
+}
+
+.www-ghanaiantimes .div-content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 3853px;
+  left: 0;
+  max-width: 1200px;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+}
+
+.www-ghanaiantimes .div-main-content-row {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 15.02px;
+  height: 3856px;
+  margin-bottom: -3px;
+  padding: 0px 15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .main {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 3856px;
+  padding: 30px 3px 30px 15px;
+  position: relative;
+  width: 800px;
+}
+
+.www-ghanaiantimes .article {
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000001a;
+  border-radius: 2px;
+  height: 3368px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .header {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 31px;
+  position: absolute;
+  top: 31px;
+}
+
+.www-ghanaiantimes .span-post-cat-wrap {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4.02px;
+  padding: 0px 623.98px 6px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .link {
+  align-items: flex-start;
+  background-color: #2942aa;
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 22.19px;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.www-ghanaiantimes .text-wrapper {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #ffffff;
+  display: -webkit-box;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 11.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.2px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #ffffff;
+  display: -webkit-box;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.2px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .heading {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 44px 0.17px 0px;
+  position: absolute;
+  top: 32px;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-2 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Black", Helvetica;
+  font-size: 38.9px;
+  font-weight: 900;
+  letter-spacing: 0;
+  line-height: 57.4px;
+  margin-right: -44px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div-single-post-meta {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 297px;
+  width: 720px;
+}
+
+.www-ghanaiantimes .pseudo {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 13px;
+}
+
+.www-ghanaiantimes .text-wrapper-3 {
+  color: #333333;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 24px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .div-tie-alignright {
+  height: 24px;
+  left: 635px;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.www-ghanaiantimes .img {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.www-ghanaiantimes .element-minute-read {
+  color: #333333;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 11.8px;
+  font-weight: 400;
+  height: 24px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .figure {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1px;
+  position: absolute;
+  top: 365px;
+  width: 780px;
+}
+
+.www-ghanaiantimes .figcaption {
+  background-color: #00000099;
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 481px;
+  width: 157px;
+}
+
+.www-ghanaiantimes .pseudo-2 {
+  height: 12px;
+  left: 10px;
+  position: absolute;
+  top: 9px;
+  width: 13px;
+}
+
+.www-ghanaiantimes .mr-kennedy-o-agyap {
+  color: #ffffff;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 11.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .NPP-money-looting {
+  align-self: stretch;
+  height: 511.64px;
+  max-width: 780px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-entry-content {
+  height: 2396px;
+  left: 2px;
+  position: absolute;
+  top: 901px;
+  width: 780px;
+}
+
+.www-ghanaiantimes .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .div-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 26px 0px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-4 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -26px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .p-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 21px 0px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-5 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 14.8px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -21px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .p-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 3px 0px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-6 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -3px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .the-FBI-issued-a-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 13px 0px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .the-FBI-issued-a {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -13px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .p-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 11px 0px 0px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-7 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: -11px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .text-wrapper-8 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: relative;
+  width: 720px;
+}
+
+.www-ghanaiantimes .p-5 {
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 2016px;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-9 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  height: 26px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .p-6 {
+  height: 26px;
+  left: 30px;
+  position: absolute;
+  top: 2058px;
+  width: 720px;
+}
+
+.www-ghanaiantimes .p-instance {
+  left: 30px !important;
+  position: absolute !important;
+  top: 2100px !important;
+}
+
+.www-ghanaiantimes .design-component-instance-node {
+  left: 30px !important;
+  position: absolute !important;
+  top: 2142px !important;
+}
+
+.www-ghanaiantimes .p-7 {
+  left: 30px !important;
+  position: absolute !important;
+  top: 2184px !important;
+}
+
+.www-ghanaiantimes .p-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 30px;
+  padding: 0px 581px 0px 0px;
+  position: absolute;
+  top: 2334px;
+  width: 720px;
+}
+
+.www-ghanaiantimes .text-wrapper-10 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div-share-buttons {
+  align-items: flex-start;
+  background-color: #f7f7f7;
+  border-color: #0000001a;
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex-direction: column;
+  left: 1px;
+  padding: 19px 28px 18px;
+  position: absolute;
+  top: 3297px;
+  width: 780px;
+}
+
+.www-ghanaiantimes .div-share-links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 7.6px;
+  padding: 2px 428.34px 2px 2px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .link-2 {
+  align-items: center;
+  background-color: #4080ff;
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.www-ghanaiantimes .span-share-btn-icon {
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.www-ghanaiantimes .span-social-text {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: #ffffff4c;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 6.92px 0px 7px;
+  position: relative;
+}
+
+.www-ghanaiantimes .text-wrapper-11 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: #ffffff;
+  display: -webkit-box;
+  font-family: "Open Sans", Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .link-3 {
+  align-items: center;
+  background-color: #40bff5;
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.www-ghanaiantimes .span-social-text-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: #ffffff4c;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 4.45px 0px 7px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-4 {
+  align-items: center;
+  background-color: #333333;
+  border-radius: 2px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.www-ghanaiantimes .span-social-text-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: #ffffff4c;
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 7.03px 0px 7px;
+  position: relative;
+}
+
+.www-ghanaiantimes .div-read-next-block {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border-radius: 2px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -2px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-main-slider {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-container {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 782px;
+  position: relative;
+  width: 782px;
+}
+
+.www-ghanaiantimes .listbox-option {
+  background-image: url(https://c.animaapp.com/mO88xLqo/img/listbox---option.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  position: relative;
+  width: 782px;
+}
+
+.www-ghanaiantimes .div-thumb-overlay {
+  align-items: flex-start;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+  height: 400px;
+  padding: 110px 320.81px 159.82px 40px;
+  position: relative;
+  width: 782px;
+}
+
+.www-ghanaiantimes .pseudo-3 {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.75) 100%);
+  height: 340px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 782px;
+}
+
+.www-ghanaiantimes .div-container-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.99px;
+  max-width: 1200px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .link-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 363.17px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .link-5 {
+  align-items: flex-start;
+  background-color: #2942aa;
+  border-radius: 4px;
+  display: inline-flex;
+  height: 22.19px;
+  padding: 0px 11.02px 0px 10px;
+  position: relative;
+}
+
+.www-ghanaiantimes .div-thumb-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-thumb-meta {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 327.96px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .span-date {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1.23px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .heading-link {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 36.19px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .former-president {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div-wide-slider-nav {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 469px;
+  overflow: hidden;
+  padding: 6.81px 15px 6.82px;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.www-ghanaiantimes .div-slick-list-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1200px;
+  padding: 0px 15px 0px 15px;
+  position: relative;
+  width: 282.8px;
+}
+
+.www-ghanaiantimes .div-slick-list {
+  align-self: stretch;
+  height: 386.37px;
+  max-height: 500px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .listbox {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 1432px;
+  padding: 455.94px 0px 559.72px;
+  position: relative;
+  top: -451px;
+  width: 253px;
+}
+
+.www-ghanaiantimes .option {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff01;
+  box-shadow: inset 0px 0px 0px #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  opacity: 0.5;
+  padding: 16px 1px 15.99px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .heading-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-height: 39.2px;
+  padding: 0px 50px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .text-wrapper-13 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #ffffff;
+  display: -webkit-box;
+  font-family: "Segoe UI-Light", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-right: -0.2px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .heading-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff01;
+  box-shadow: inset 0px 0px 0px #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  opacity: 0.5;
+  padding: 15px 1px 16.99px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .bog-governor-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-height: 39.2px;
+  padding: 0px 41px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Segoe UI-Light", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-right: -0.2px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .NDC-mourns-ET-mensah-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-height: 39.2px;
+  padding: 0px 33px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .option-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff01;
+  box-shadow: inset 0px 0px 0px #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  padding: 15px 1px 16.98px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .former-president-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-height: 39.2px;
+  padding: 0px 55px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-height: 39.2px;
+  padding: 0px 51px 20.19px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Segoe UI-Light", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-right: -0.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .pseudo-4 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(204, 204, 204, 0) 65%,
+    rgba(229, 229, 229, 0) 100%
+  );
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: -25px;
+  width: 313px;
+}
+
+.www-ghanaiantimes .pseudo-5 {
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgba(0, 0, 0, 0.8) 0%,
+    rgba(204, 204, 204, 0) 65%,
+    rgba(229, 229, 229, 0) 100%
+  );
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 385px;
+  width: 313px;
+}
+
+.www-ghanaiantimes .heading-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  padding: 0px 3.03px 5.19px 0px;
+  position: absolute;
+  top: 30px;
+  width: 88px;
+}
+
+.www-ghanaiantimes .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .pseudo-6 {
+  background-color: #ffffff;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.www-ghanaiantimes .aside-primary {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 899px;
+  position: absolute;
+  top: 30px;
+  width: 370px;
+}
+
+.www-ghanaiantimes .div-3 {
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000001a;
+  border-radius: 2px;
+  height: 62px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #0000001a;
+  border-radius: 2px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 31px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-widget-title {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #0000001a;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 17px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-the-subtitle {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 15px;
+  padding: 0px 201.98px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .text-wrapper-17 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .pseudo-7 {
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(44, 47, 52), rgba(0, 0, 0, 0) 0%) 1;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-top-style: solid;
+  border-top-width: 5px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 5px;
+}
+
+.www-ghanaiantimes .pseudo-8 {
+  background-color: #2c2f34;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 36px;
+  width: 40px;
+}
+
+.www-ghanaiantimes .div-widget-posts {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .item {
+  align-self: stretch;
+  height: 89px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .overlap-group {
+  height: 97px;
+  left: -20px;
+  position: relative;
+  top: -15px;
+  width: 328px;
+}
+
+.www-ghanaiantimes .div-post-widget-body {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 20px;
+  padding: 0px 1.53e-5px 0px 125px;
+  position: absolute;
+  top: 15px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 4.02px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .text-wrapper-18 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .text-wrapper-19 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div-post-meta {
+  align-self: stretch;
+  height: 17px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .pseudo-9 {
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.www-ghanaiantimes .text-wrapper-20 {
+  color: #666666;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  height: 17px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .div-post-widget {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 110px;
+}
+
+.www-ghanaiantimes .img-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .img-2 {
+  height: 75px;
+  max-width: 110px;
+  position: relative;
+  width: 110px;
+}
+
+.www-ghanaiantimes .pseudo-10 {
+  background-color: #2942aa;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 40.5px;
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.www-ghanaiantimes .overlap-wrapper {
+  align-self: stretch;
+  height: 96px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .overlap-2 {
+  height: 93px;
+  left: -19px;
+  position: relative;
+  top: -4px;
+  width: 327px;
+}
+
+.www-ghanaiantimes .div-post-widget-body-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 19px;
+  padding: 0px 1.53e-5px 0px 125px;
+  position: absolute;
+  top: 11px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 10.52px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-former-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 19px;
+  position: absolute;
+  top: 11px;
+  width: 110px;
+}
+
+.www-ghanaiantimes .pseudo-11 {
+  background-color: #2942aa;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 37.5px;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.www-ghanaiantimes .overlap-group-wrapper {
+  align-self: stretch;
+  height: 117px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .overlap-3 {
+  height: 112px;
+  left: -17px;
+  position: relative;
+  top: -2px;
+  width: 325px;
+}
+
+.www-ghanaiantimes .div-post-widget-body-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 17px;
+  padding: 0px 1.53e-5px 0px 125px;
+  position: absolute;
+  top: 9px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 5.55px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-NPP-money-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 17px;
+  position: absolute;
+  top: 9px;
+  width: 110px;
+}
+
+.www-ghanaiantimes .pseudo-12 {
+  background-color: #2942aa;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 34.5px;
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.www-ghanaiantimes .overlap-4 {
+  height: 90px;
+  left: -16px;
+  position: relative;
+  top: -2px;
+  width: 324px;
+}
+
+.www-ghanaiantimes .div-post-widget-body-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 16px;
+  padding: 0px 1.53e-5px 0px 125px;
+  position: absolute;
+  top: 8px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-9 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 10.25px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-bog-governor-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 110px;
+}
+
+.www-ghanaiantimes .pseudo-13 {
+  background-color: #2942aa;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 33px;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.www-ghanaiantimes .overlap-5 {
+  height: 110px;
+  left: -15px;
+  position: relative;
+  width: 323px;
+}
+
+.www-ghanaiantimes .div-post-widget-body-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 15px;
+  padding: 0px 1.53e-5px 0px 125px;
+  position: absolute;
+  top: 7px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 7.41px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .div-post-widget-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 110px;
+}
+
+.www-ghanaiantimes .pseudo-14 {
+  background-color: #2942aa;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 30px;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.www-ghanaiantimes .item-2 {
+  align-self: stretch;
+  height: 173px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .overlap-6 {
+  height: 173px;
+  left: -15px;
+  position: relative;
+  width: 323px;
+}
+
+.www-ghanaiantimes .link-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 5.58px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-12 {
+  align-items: center;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: #0000001a;
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  padding: 0px 121.9px 0px 122.09px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .text-wrapper-21 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .div-widget-title-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #0000001a;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 17px;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.www-ghanaiantimes .div-the-subtitle-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 15px;
+  padding: 0px 234.98px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 208.01px 0px 12px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.www-ghanaiantimes .item-link {
+  align-self: stretch;
+  height: 21px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .pseudo-15 {
+  height: 18px;
+  left: -12px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+
+.www-ghanaiantimes .text-wrapper-22 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-23 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-24 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-25 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-26 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 7px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-27 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-28 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.1px;
+  font-weight: 400;
+  height: 21px;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-29 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-30 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-31 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-32 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-33 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-34 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-35 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.7px;
+  font-weight: 400;
+  height: 21px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .text-wrapper-36 {
+  color: #2c2f34;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13.3px;
+  font-weight: 400;
+  height: 21px;
+  left: 53px;
+  letter-spacing: 0;
+  line-height: 21px;
+  position: absolute;
+  text-align: right;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .div-the-subtitle-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 15px;
+  padding: 0px 249.98px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .overlap-group-2 {
+  height: 82px;
+  position: relative;
+  width: 308px;
+}
+
+.www-ghanaiantimes .div-post-widget-body-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  left: 0;
+  padding: 0px 125px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 308px;
+}
+
+.www-ghanaiantimes .div-post-widget-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 198px;
+  position: absolute;
+  top: 0;
+  width: 110px;
+}
+
+.www-ghanaiantimes .overlap-7 {
+  height: 75px;
+  position: relative;
+  top: 7px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .overlap-8 {
+  height: 82px;
+  position: relative;
+  top: 7px;
+  width: 308px;
+}
+
+.www-ghanaiantimes .link-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 1px;
+  padding: 0px 8.7px 0px 0px;
+  position: relative;
+}
+
+.www-ghanaiantimes .link-14 {
+  align-items: center;
+  align-self: stretch;
+  border: 1px solid;
+  border-color: #0000001a;
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  padding: 0px 119.9px 0px 120.08px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .footer {
+  align-items: flex-start;
+  background-color: #1f2024;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 4343px;
+  width: 1920px;
+}
+
+.www-ghanaiantimes .div-site-info {
+  align-items: center;
+  align-self: stretch;
+  background-color: #161619;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 20px 360px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1200px;
+  position: relative;
+  width: 1200px;
+}
+
+.www-ghanaiantimes .div-tie-col-md {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  min-height: 1px;
+  padding: 0px 15px 0px 870.09px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .list-2 {
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+  z-index: 1;
+}
+
+.www-ghanaiantimes .list-3 {
+  height: 32px;
+  position: relative;
+  width: 232.91px;
+  z-index: 0;
+}
+
+.www-ghanaiantimes .link-home-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 5px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .link-about-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 53px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .link-about {
+  color: #ffffff;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-size: 12.5px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .link-news-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 101px;
+  padding: 0px 0.16px 0px 0.36px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .link-ads-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 147px;
+  padding: 0px 0.11px 0px 0.3px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .link-contact-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  left: 183px;
+  position: absolute;
+  top: 0;
+}
+
+.www-ghanaiantimes .link-15 {
+  height: 35px;
+  left: 1870px;
+  position: absolute;
+  top: 1145px;
+  width: 35px;
+}
+
+.www-ghanaiantimes .header-2 {
+  align-items: center;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px 5px #0000001a;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.www-ghanaiantimes .div-tie-row {
+  align-self: stretch;
+  height: 320px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-logo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  position: relative;
+  top: 175px;
+  width: 370px;
+}
+
+.www-ghanaiantimes .link-picture {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.www-ghanaiantimes .gtlogo-retina-png {
+  height: 112.47px;
+  max-height: 152px;
+  max-width: 369.98px;
+  position: relative;
+  width: 369.98px;
+}
+
+.www-ghanaiantimes .nav-primary {
+  align-self: stretch;
+  background-color: #1f4796;
+  height: 62px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .div-menu-components-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 65px;
+  left: 360px;
+  max-width: 1200px;
+  padding: 0px 15px;
+  position: relative;
+  width: 1200px;
+}
+
+.www-ghanaiantimes .div-menu-components {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 276.8px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .list-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+  width: 743.2px;
+}
+
+.www-ghanaiantimes .item-link-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 14.13px 0px 14px;
+  position: relative;
+  width: 64.13px;
+}
+
+.www-ghanaiantimes .text-wrapper-38 {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 60px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.www-ghanaiantimes .item-3 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-color: #c40f88;
+  display: flex;
+  flex-direction: column;
+  height: 60px;
+  padding: 0px 0px 5px;
+  position: relative;
+  width: 73px;
+}
+
+.www-ghanaiantimes .group-wrapper {
+  align-self: stretch;
+  background-color: #c40f88;
+  flex: 0 0 auto;
+  margin-bottom: -5px;
+  position: relative;
+  width: 100%;
+}
+
+.www-ghanaiantimes .group {
+  height: 60px;
+  left: 14px;
+  position: relative;
+  width: 47px;
+}
+
+.www-ghanaiantimes .overlap-group-3 {
+  height: 60px;
+  position: relative;
+  width: 49px;
+}
+
+.www-ghanaiantimes .group-2 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 49px;
+}
+
+.www-ghanaiantimes .pseudo-16 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 39px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .text-wrapper-39 {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .pseudo-17 {
+  background-color: #2c2f34;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 46px;
+  width: 20px;
+}
+
+.www-ghanaiantimes .politics-wrapper {
+  position: relative;
+  width: 85.25px;
+}
+
+.www-ghanaiantimes .politics {
+  height: 60px;
+  left: 14px;
+  position: relative;
+  width: 61px;
+}
+
+.www-ghanaiantimes .pseudo-18 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 51px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .item-link-3 {
+  height: 60px;
+  position: relative;
+  width: 116.67px;
+}
+
+.www-ghanaiantimes .group-3 {
+  height: 60px;
+  left: 14px;
+  position: relative;
+  width: 95px;
+}
+
+.www-ghanaiantimes .overlap-group-4 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 70px;
+}
+
+.www-ghanaiantimes .symbol {
+  color: #ffffff;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 13px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .business {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 60px;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .pseudo-19 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 83px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .item-link-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 27.17px 0px 14px;
+  position: relative;
+  width: 80.17px;
+}
+
+.www-ghanaiantimes .pseudo-20 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 60px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .item-link-5 {
+  height: 60px;
+  position: relative;
+  width: 92.47px;
+}
+
+.www-ghanaiantimes .group-4 {
+  height: 60px;
+  left: 14px;
+  position: relative;
+  width: 70px;
+}
+
+.www-ghanaiantimes .symbol-2 {
+  color: #ffffff;
+  font-family: "Font Awesome 5 Brands-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 13px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .pseudo-21 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 58px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .crime {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  height: 60px;
+  left: 13px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .item-link-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 15.86px 0px 14px;
+  position: relative;
+  width: 64.86px;
+}
+
+.www-ghanaiantimes .item-link-7 {
+  position: relative;
+  width: 70.06px;
+}
+
+.www-ghanaiantimes .group-5 {
+  height: 60px;
+  left: 14px;
+  position: relative;
+  width: 46px;
+}
+
+.www-ghanaiantimes .pseudo-22 {
+  border: 4px solid;
+  border-color: #ffffff;
+  height: 8px;
+  left: 36px;
+  position: absolute;
+  top: 28px;
+  width: 8px;
+}
+
+.www-ghanaiantimes .text-wrapper-40 {
+  color: #ffffff;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-size: 12.9px;
+  font-weight: 400;
+  height: 60px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.www-ghanaiantimes .item-link-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: -0.04px;
+  padding: 0px 17.63px 0px 14px;
+  position: relative;
+  width: 96.63px;
+}
+
+.www-ghanaiantimes .list-5 {
+  object-fit: cover;
+  position: relative;
+  width: 150px;
+}
